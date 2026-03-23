@@ -1,3 +1,63 @@
+h1 {
+    font-size: 70px;
+    margin-left: 30%;
+}
 body {
-    background-color: aquamarine;
+    background-color: lightsteelblue;
+}
+
+main {
+    background-color: cadetblue;
+    margin: 30px;
+    padding-bottom: 50px;
+    border-radius: 40px;
+}
+
+h2 {padding: 10px;
+    margin: 30px;
+    font-size: 30px;
+    padding-top: 20px;
+ }
+ .museu-sp {background-color: lightgray;
+margin: 30px;
+padding: 10px;
+border-radius: 10px;}
+.museu-rj {
+    background-color: lightgray;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.museu-pr {
+     background-color: lightgray;
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+input, button {
+    position: relative;
+    left: 70%;
+    font-size: x-large;
+}
+main li {
+    margin-left: 30px;
+    font-family: Arial;
+}
+.descricao-sp {
+    position: relative;
+    left: 25%;
+    bottom: 200px;
+    font-family: Arial;
+}
+.descricao-rj {
+    position: relative;
+    left: 25%;
+    bottom: 165px;
+    font-family: Arial;
+}
+.descricao-pr {
+    position: relative;
+    left: 25%;
+    bottom: 270px;
+    font-family: Arial;
 }

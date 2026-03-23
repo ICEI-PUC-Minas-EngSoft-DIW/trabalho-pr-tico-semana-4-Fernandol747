@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Fernando Gomes Reis de Resende
+- Matricula: 1659379
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: É um site onde você pode pesquisar informações de museus de todo o Brasil.
 
 
 ## Print do(s) wireframe(s) criado
@@ -21,4 +21,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da Home](public/Captura de Tela (18).png)
