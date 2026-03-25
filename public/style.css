@@ -13,6 +13,16 @@ main {
     border-radius: 40px;
 }
 
+
+nav {
+    background-color: lightblue;
+    margin-left: 30px;
+    margin-right: 80%;
+    padding-bottom: 1%;
+    padding-top: 0.5%;
+    border-radius: 20px;
+}
+
 h2 {padding: 10px;
     margin: 30px;
     font-size: 30px;
@@ -61,3 +71,14 @@ main li {
     bottom: 270px;
     font-family: Arial;
 }
+p {
+    position: relative;
+    left: 25%;
+    bottom: 200px;
+}
+footer {
+    position: relative;
+    top: 320px;
+    right: 340px;
+}
+
