@@ -6,7 +6,7 @@ body {
     background-color: lightsteelblue;
 }
 
-main {
+.mais-famoso {
     background-color: cadetblue;
     margin: 30px;
     padding-bottom: 50px;
@@ -32,6 +32,7 @@ h2 {padding: 10px;
 margin: 30px;
 padding: 10px;
 border-radius: 10px;}
+
 .museu-rj {
     background-color: lightgray;
     margin: 30px;
@@ -80,5 +81,21 @@ footer {
     position: relative;
     top: 320px;
     right: 340px;
+}
+form {position: relative;
+        bottom: 100px;}
+
+.apresentação {padding-right: 50%;
+position: relative;
+top: 200px;
+left: 10%;
+font-size: 25px;
+font-family: Arial;
+padding-bottom: 40px;}
+
+.boas-vindas {
+    padding-left: 13%;
+    font-size: 40px;
+    font-family: Arial;
 }
 
