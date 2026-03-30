@@ -1,7 +1,14 @@
+header {
+    background-color: blueviolet;
+    position: relative;
+    bottom: 55px;
+}
+
 h1 {
     font-size: 70px;
     margin-left: 30%;
 }
+
 body {
     background-color: lightsteelblue;
 }
@@ -83,7 +90,7 @@ footer {
     right: 340px;
 }
 form {position: relative;
-        bottom: 100px;}
+        bottom: 20px;}
 
 .apresentação {padding-right: 50%;
 position: relative;
